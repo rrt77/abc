@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49" started-at="2017-01-29T00:54:03Z" finished-at="2017-01-29T00:54:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49" started-at="2017-01-29T00:54:03Z" finished-at="2017-01-29T00:54:04Z">
+      <class name="PriorityINTestNG">
+        <test-method status="PASS" signature="openTheBrowser()[pri:0, instance:PriorityINTestNG@23ceabc1]" name="openTheBrowser" duration-ms="16" started-at="2017-01-28T19:54:03Z" finished-at="2017-01-28T19:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openTheBrowser -->
+        <test-method status="PASS" signature="login()[pri:1, instance:PriorityINTestNG@23ceabc1]" name="login" duration-ms="0" started-at="2017-01-28T19:54:04Z" finished-at="2017-01-28T19:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="searchAndPick()[pri:2, instance:PriorityINTestNG@23ceabc1]" name="searchAndPick" duration-ms="0" started-at="2017-01-28T19:54:04Z" finished-at="2017-01-28T19:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndPick -->
+        <test-method status="PASS" signature="payment()[pri:3, instance:PriorityINTestNG@23ceabc1]" name="payment" duration-ms="0" started-at="2017-01-28T19:54:04Z" finished-at="2017-01-28T19:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment -->
+        <test-method status="PASS" signature="closeTheBrowser()[pri:4, instance:PriorityINTestNG@23ceabc1]" name="closeTheBrowser" duration-ms="1" started-at="2017-01-28T19:54:04Z" finished-at="2017-01-28T19:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- PriorityINTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
